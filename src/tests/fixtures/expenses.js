@@ -9,7 +9,7 @@ export default [
 		createdAt: 0
 	},
 	{
-		id: 2,
+		id: "2",
 		description: "Pensil",
 		note: "",
 		amount: 109500,
@@ -18,7 +18,7 @@ export default [
 			.valueOf()
 	},
 	{
-		id: 3,
+		id: "3",
 		description: "Rent",
 		note: "",
 		amount: 205000,
