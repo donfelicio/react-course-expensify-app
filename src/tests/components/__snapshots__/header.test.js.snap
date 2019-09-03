@@ -25,11 +25,10 @@ exports[`Should render the header component 1`] = `
   >
     Create
   </NavLink>
-  <NavLink
-    activeClassName="is-active"
-    to="/help"
+  <button
+    onClick={[Function]}
   >
-    Help
-  </NavLink>
+    Logout
+  </button>
 </header>
 `;
