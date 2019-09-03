@@ -10,6 +10,13 @@ exports[`Should render the header component 1`] = `
     exact={true}
     to="/"
   >
+    Login
+  </NavLink>
+  <NavLink
+    activeClassName="is-active"
+    exact={true}
+    to="/dashboard"
+  >
     Dashboard
   </NavLink>
   <NavLink
